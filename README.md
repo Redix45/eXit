@@ -1,4 +1,4 @@
-# Tiny Calculator C++
+# eXit game
 
 Tiny Calculator is a C++ file that allows you to use math functions like addition, subtraction, multiplication, division, exponentiation, square root, and the log functions from the command prompt. 
 
