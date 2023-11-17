@@ -2,8 +2,6 @@
 eXit is the game found on the Mr Robot tv series. 
 I am learning programming so the code is probably crap.
 
-Tiny Calculator is a C++ file that allows you to use math functions like addition, subtraction, multiplication, division, exponentiation, square root, and the log functions from the command prompt. 
-
 ## Installation and How To Use
 
 This section is combined because you will already be in a terminal when cloning the project:
@@ -19,12 +17,12 @@ In order to this click the fork button on the top right corner of the screen. Th
 
 (Note: must have `g++` compiler)
 
-1. Put main.cpp, main.hpp, and pi.txt into a local folder of choice
+1. Put exit.cpp into a local folder of choice
 2. Using command prompt navigate to the local folder with the files
 3. Run the following commands:
 
 ```bash
-$ g++ main.cpp -o executable_name_here.exe
+$ g++ exit.cpp -o executable_name_here.exe
 $ executable_name_here.exe
 ```
 
