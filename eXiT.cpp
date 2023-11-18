@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-// Function to convert a string to uppercase
+
 std::string toUpper(const std::string& str) {
     std::string result = str;
     for (char& c : result) {
@@ -10,9 +10,9 @@ std::string toUpper(const std::string& str) {
     return result;
 }
 
-// Function to print text in cyan
+
 void printCyan(const std::string& text) {
-    std::cout << "\033[1;36m" << text << "\033[0m"; // 1;36m sets the text to bright cyan
+    std::cout << "\033[1;36m" << text << "\033[0m"; 
 }
 
 int main() {
